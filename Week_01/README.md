@@ -26,3 +26,9 @@
 - 作业题：1-两数之和
 
 	以前用的暴力法，学习使用哈希完成题目。C++中可用unordered_map。
+
+- 作业题：641-设计循环双端队列
+
+	vector插入元素：v.insert(v.begin()+i,num);
+	
+	vector删除元素：v.erase(v.end()-i);
